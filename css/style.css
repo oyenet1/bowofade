@@ -1000,6 +1000,8 @@ a:focus {
     position: relative;
     margin-bottom: 30px;
     background: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #EF233C;
 }
 
 .price .featured-item {
